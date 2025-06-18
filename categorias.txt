@@ -1,0 +1,11 @@
+Categorias de macarrão instantânio:
+
+Sabores:
+    -Galinha Caipira
+    -Carne
+    -Costela
+    -Picanha
+    -Tomate
+    -Legumes
+    -Feijoada
+    -Legumes
