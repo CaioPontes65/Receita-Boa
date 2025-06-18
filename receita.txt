@@ -1,0 +1,32 @@
+Categorias de macarrão instantânio:
+
+Sabores:
+    -Galinha Caipira
+    -Carne
+    -Costela
+    -Picanha
+    -Tomate
+    -Legumes
+    -Feijoada
+    -Legumes
+
+Ingredientes Miojo:
+
+- Panela
+- Gás
+- Fogão
+- Miojo (boa qualidade)
+- Pó mágico (opcional)
+
+
+Para preparar um macarrão instantâneo, estando com os seus ingredientes, faça os seguintes passos na ordem descrita:
+    1. Pegue a panela escolhida nos ingredientes;
+    2. Encha ela com 500ml de água;
+    3. Coloque a panela no fogo até a água começar a ferver;
+    4. Quando a água estiver fervendo, abra a embalagem de seu macarrão e separe o têmpero;
+    5. Coloque o macarrão na água e deixe ferver por 5 minutos;
+    6. Coloque o têmpero e mexa seu macarrão esporádicamente até ele amolecer completamente;
+    7. Depois que o macarrão tiver amolecido completamente, você já pode despejar a água dele;
+        7.1. Se desejar, você pode deixar um restinho de caldo para apreciar junto do macarrão;
+    8. Sirva seu macarrão em um prato de sua preferência;
+    9. Bom apetite!
